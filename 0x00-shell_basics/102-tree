@@ -1,0 +1,3 @@
+#!/bin/bash
+nkdir -p welcome /to/school
+
