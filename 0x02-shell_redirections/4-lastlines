@@ -1,3 +1,2 @@
 #!/bin/bash
-tail /ect/passwd
-
+e. G tail-10/ect/passwd
